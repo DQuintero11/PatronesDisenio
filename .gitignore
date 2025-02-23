@@ -6,3 +6,10 @@
 /ChainResponsability/ChainResponsability/obj
 /ChainResponsability/ChainResponsability/bin/Debug/net7.0
 /.vs
+/ChainResponsability/.vs/ProjectEvaluation
+/Command/.vs
+/Command/Command/obj
+/Iterator/.vs
+/Iterator/Iterator/obj
+/Mediator/.vs
+/Mediator/Mediator/obj
